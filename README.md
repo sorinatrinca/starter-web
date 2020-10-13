@@ -13,3 +13,6 @@ On web server or ..
 
 ## How to
 
+### Copyright
+
+Git.Training
