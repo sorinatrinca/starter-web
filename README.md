@@ -16,4 +16,4 @@ Please fork
 
 ### Copyright
 
-Git.Training
+Git.Training.. All rights reserved.
